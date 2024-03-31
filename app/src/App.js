@@ -90,7 +90,7 @@ function App() {
         </nav>
       </section>
       <section className="main">
-        {!title && <h1>Apnabot</h1>}
+        {!title && <h1>Finbot</h1>}
         <ul className="feed">
           {/* {currentChats?.map((currentChat, index) => (
             <li key={index}>
@@ -117,7 +117,7 @@ function App() {
             </div>
           </div>
           <p className="info">
-            Apnabot can make mistakes. Consider checking important information.
+            Finbot can make mistakes. Consider checking important information.
           </p>
         </div>
       </section>
